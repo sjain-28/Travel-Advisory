@@ -1,0 +1,49 @@
+    .formControl {
+        margin: 8px;
+        min-width: 120;
+        margin-bottom: 30px;
+        margin-top: 10px;
+        width:150px;
+    }
+
+    .formControl.marginLeft {
+        margin-left: 10px;
+    }
+
+    .formControl.marginRight {
+        margin-right: 10px;
+    }
+    .type{
+        margin-top: 10px;
+        left:-13px;
+    }
+
+    .selectEmpty {
+        margin-top: 16px;
+    }
+#rating{
+    top:11px;
+}
+
+    .loading {
+        height: 600px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+    .container {
+        padding: 25px;
+    }
+
+
+    .marginBottom {
+        margin-bottom: 30px;
+    }
+
+
+    .list {
+        height: 75vh;
+        overflow: auto;
+    }
